@@ -16,3 +16,13 @@ Klipper is Free Software. See the [license](COPYING) or read the
 [documentation](https://www.klipper3d.org/Overview.html). We depend on
 the generous support from our
 [sponsors](https://www.klipper3d.org/Sponsors.html).
+
+# klipper-fancurves
+
+This repository is a fork of the Klipper firmware with added functionality for custom fan curves. It allows users to define temperature-based fan speed profiles for better cooling control in 3D printers.
+
+## Features
+- Customizable fan curves
+- Temperature-based fan control
+- Integration with Klipper firmware
+
